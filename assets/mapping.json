@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "is_background": true,
+      "background_img": "image",
+      "ads_click": 2,
+      "back_click": 1,
+      "is_open_interstitial": true,
+      "open_interstitial_ads": "ads",
+      "native_ads": "ads",
+      "banner_ads": "ads",
+      "reward_video_ads": "ads"
+    }
+  ]
+}
